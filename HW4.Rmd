@@ -23,7 +23,7 @@ library(ggplot2)
 library(pROC)
 
 setwd('E:/Desktop/BU/2024 Fall/MA615/HW4')
-data <- read.csv("E:\\Desktop\\BU\\2024 Fall\\MA615\\HW4\\final_data1.csv")
+data <- read.csv("E:\\Desktop\\BU\\2024 Fall\\MA615\\HW4\\Final.csv")
 rain <- read.csv("E:\\Desktop\\BU\\2024 Fall\\MA615\\HW4\\Rainfall.csv")
 
 ```
